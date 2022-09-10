@@ -29,13 +29,13 @@ Lemmatization removes inflectional and derivational pieces
 
 
 
-Goal is to determine "intent"
-ATIS dataset
-https://www.kaggle.com/datasets/hassanamin/atis-airlinetravelinformationsystem
+- Goal is to determine "intent"
+- ATIS dataset
+- https://www.kaggle.com/datasets/hassanamin/atis-airlinetravelinformationsystem
 
+- https://rasa.com/blog/nlp-for-developers-and-the-algorithm-whiteboard/
 
-
-http://www.futurile.net/2020/02/20/python-from-clojure-with-libpython-clj/
+- http://www.futurile.net/2020/02/20/python-from-clojure-with-libpython-clj/
 
 ## Daniel's live coding intro to Spacy in Clojure
 - https://spacy.io/usage/visualizers
